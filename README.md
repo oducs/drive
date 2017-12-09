@@ -1,9 +1,15 @@
-# drive has moved
-This project is under new maintenance because I am now too busy to maintain it.
-Find the latest and updated code at https://github.com/odeke-em/drive
+
+# project information
+
+This project is a fork of drive from rakyll/drive . While the current version of `drive` is maintained by odeke, 
+we are looking to produce a minimalized version of drive, so we forked the version from rakyll.
 
 # drive
-drive` is a tiny program to pull or push [Google Drive](https://drive.google.com) files. You need at least go1.2 installed in order to build the program.
+
+`drive` is a tiny program to pull or push [Google Drive](https://drive.google.com) files. You need at least go1.2 installed in order to build the program.
+
+## License
+Copyright 2017 oducs.org
 
 ## License
 Copyright 2013 Google Inc. All Rights Reserved.
